@@ -103,7 +103,7 @@ Make sure the following are installed on your system:
 
 ## How to Run the Project
 Step 1: Clone the Repository
-git clone https://github.com/Venkata-Kishor-Polakattu/Student-Management-System.git
+git clone https://github.com/Mohan7122001/Student-Management-System.git
 
 Step 2: Import into IDE
 Open IDE
